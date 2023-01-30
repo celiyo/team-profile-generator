@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This application takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celiyo/team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celiyo/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/celiyo/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
